@@ -3,6 +3,8 @@
 A collection of utilities for The Campaign Trail browser game. Each utility has a code 1 and code 2 so that they can be seen in action. All relevant code is at the end of the code 2 file, with comments
 
 ---
+## Crediting
+If you end up using any of these utilities, drop a link to the repo in the Code 2 of your mod.
 
 ## Utilities
 

@@ -9,7 +9,7 @@ A collection of utilities for The Campaign Trail browser game. Each utility has 
 - [State Visit Flavor](#-state-visit-flavor)
 - [Dynamic Candidate Names](#-dynamic-candidate-names)
 
-### `State Visit Flavor (TCS exclusive, for now)`
+### `State Visit Flavor (CTS exclusive, for now)`
 
 **Description:**  
 When you confirm the visit to a state, you will get another pop-up with flavor text about the visit. Clicking the "Continue" button in that pop-up will lead you back to the questions.
@@ -17,7 +17,7 @@ When you confirm the visit to a state, you will get another pop-up with flavor t
 **Provided Example:**
 Visiting Vermont will trigger the visit summary screen.
 
-### `Dynamic Candidate Names (TCS exclusive, for now)`
+### `Dynamic Candidate Names (CTS exclusive, for now)`
 
 **Description:**  
 In the map during the campaign, during the vote count and after it, as well as in the ending tables (both global and per-state) the displayed name of the candidates will be dynamic based on different circumstances, while not modifying the name of the candidate object.

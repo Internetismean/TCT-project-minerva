@@ -14,6 +14,7 @@ If you end up using any of these utilities, drop a link to the repo in the Code 
 
 ### `State Visit Flavor`
 **Only compatible with CTS for now**
+
 **Description:**  
 When you confirm the visit to a state, you will get another pop-up with flavor text about the visit. Clicking the "Continue" button in that pop-up will lead you back to the questions.
 
@@ -39,6 +40,7 @@ Each state's table names will depend on who won the state.
 
 ### `RCV`
 **1 candidate and 1 election RCV (compatible with both CTS and NCT)**
+
 **Description:**  
 Implementation of RCV to simulate an election in which a single candidate is chosen (e.g Democratic Party NYC mayoral primaries). First choice votes are the base game voting percentages, second choice and beyond are simulated through transferability matrixes in each state. 
 

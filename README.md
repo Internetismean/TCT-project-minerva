@@ -23,6 +23,7 @@ Visiting Vermont will trigger the visit summary screen.
 
 ### `Dynamic Candidate Names`
 **Only compatible with CTS for now**
+
 **Description:**  
 In the map during the campaign, during the vote count and after it, as well as in the ending tables (both global and per-state) the displayed name of the candidates will be dynamic based on different circumstances, while not modifying the name of the candidate object.
 
